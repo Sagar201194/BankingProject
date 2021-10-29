@@ -106,6 +106,10 @@ public class TestClass extends Base {
 	@AfterTest
 	public void closeBrowser() {
 		System.out.println("Test Screept Pass");
+		System.out.println("Test Screept Pass");
+		System.out.println("Test Screept Pass");
+		System.out.println("Test Screept Pass");
+		System.out.println("Test Screept Pass");
 		driver.close();
 	}
 	
